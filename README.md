@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Justusalho, (they/them)
-- Favourite language is Rust or C++
+- I mainly use Rust
 - 📫 Best way to reach me is to DM on twitter @justusalho
 
 <!---
